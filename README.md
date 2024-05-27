@@ -1,8 +1,6 @@
 # prettier-config
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=444&label=)](https://www.npmjs.com/package/@upthen/prettier-config)
-
----
+## [![npm](https://img.shields.io/npm/v/@upthen/prettier-config?color=444&label=)](https://www.npmjs.com/package/@upthen/prettier-config)
 
 upthen's personal prettier-config
 
