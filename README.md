@@ -1,6 +1,18 @@
 # prettier-config
 
+[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=444&label=)](https://www.npmjs.com/package/@upthen/prettier-config)
+
+---
+
 upthen's personal prettier-config
+
+## Description
+
+When I create a new project, If I want to reuse my prettier config, I used to copy the .prettierrc from an old
+project to the new one, that seems to be foolish, so why not make it a package and just install it on wherever
+I want.
+
+It is why I have this project. Yeah, just very simple but useful for me.
 
 ## Usages
 
