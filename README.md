@@ -1,7 +1,8 @@
 # prettier-config
 
-[![npm](https://img.shields.io/npm/v/@upthen/prettier-config?color=444&label=npm)](https://www.npmjs.com/package/@upthen/prettier-config)
+[![npm](https://img.shields.io/npm/v/@upthen/prettier-config?color=349dbe&label=npm)](https://www.npmjs.com/package/@upthen/prettier-config)
 [![downloads](https://img.shields.io/npm/dm/@upthen/prettier-config?color=349dbe&label=downloads)](https://www.npmjs.com/package/@upthen/prettier-config)
+[![downloads](https://img.shields.io/npm/l/@upthen/prettier-config?color=349dbe&label=license)](https://github.com/upthen/prettier-config/blob/main/LICENSE)
 
 upthen's personal prettier-config
 
